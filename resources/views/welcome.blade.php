@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Git Master
+                    DCM natuurlijke plantenvoeding
                 </div>
 
                 <div class="links">
