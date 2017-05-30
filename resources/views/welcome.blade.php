@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    DCM natuurlijke plantenvoeding
                 </div>
 
                 <div class="links">
